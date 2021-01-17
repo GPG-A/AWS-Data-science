@@ -8,3 +8,7 @@ This repository contains implementations of the most popular reinforcement learn
 ```
 3. [Practical Statistics for Data Scientists_SourceCode](https://github.com/gedeck/practical-statistics-for-data-scientists)
 
+4. Shervine Amidi 的AI/机器学习/深度学习速查系列:
+   1. [CS 221 ― Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/)
+   2. [CS 229 ― Machine Learning(中文)](https://stanford.edu/~shervine/l/zh/teaching/cs-229/)
+   3. [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
